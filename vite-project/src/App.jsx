@@ -1,5 +1,7 @@
+import Dom from "./index";
+
 function App() {
-  return <h1>hi my name is himanish rao</h1>;
+  return <Dom />;
 }
 
 export default App;
